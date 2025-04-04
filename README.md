@@ -1,4 +1,5 @@
-# **Employee Promotion & Attrition Prediction System**  
+# **Employee Promotion & Attrition Prediction System** 
+
 
 ## **1. Collecting the Data**  
 The first step is to gather a dataset related to employee performance and attrition. A good source for this is Kaggle, which provides HR datasets containing information about employees, their job roles, salaries, performance ratings, and whether they have left the company.  
@@ -42,6 +43,4 @@ Based on the model’s predictions, we can make smarter HR decisions:
 - **Retention strategies** can be designed for employees flagged as likely to leave.  
 - **Further improvements** can be made by testing more advanced models like XGBoost or fine-tuning the existing ones.  
 
----
 
-This structured approach helps in making data-driven decisions rather than relying on guesswork. Let me know if anything needs tweaking! 😊
