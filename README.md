@@ -25,7 +25,7 @@ With the data ready, we move on to building machine learning models to predict t
    - A regression model (Random Forest Regressor) is used to predict an employee’s performance rating.  
    - We check how accurate it is using RMSE (Root Mean Squared Error) and the R² score.  
 
-Python libraries like Scikit-learn, Pandas, and Matplotlib help in training and testing these models.  
+Python libraries like Scikit-learn, Seaborn, numpy, Pandas, and Matplotlib help in training and testing these models.  
 
 
 ## **4. Analyzing Results & Drawing Insights**  
